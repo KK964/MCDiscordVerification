@@ -1,0 +1,11 @@
+name: DiscordVerify
+main: discV.Main
+description: verify your minecraft account on discord
+author: KK964
+version: 0.0.1
+depend:
+  - AlonsoJDA
+commands:
+  verify:
+    usage: /verify
+    description: Command To Verify

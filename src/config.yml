@@ -1,0 +1,7 @@
+#You Must Put Your Bot Token In.
+BotToken: 
+#Options
+#Put Either Discord, Data, or Both for your LogDataOptions. example: LogDataOptions: Discord + Data
+LogDataOptions: 
+#if you put Discord for LogDataOptions you must put what channel(ID) to log where you want to show players who linked their accounts.
+LogChannelID: 
