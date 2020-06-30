@@ -19,5 +19,5 @@ MCDiscordVerification is a remake of {TheSourceCode}'s Verification plugin.
   - Custom Settings
   - Save Data
 
-> Download the plugin [here]
+> Download the plugin [here](https://www.spigotmc.org/resources/mcdiscordverification.80887/)
 > This Plugin Requires [AlonsoJDA](https://www.spigotmc.org/resources/alonsojda-1-8-1-13-%E2%80%A2-for-spigot-and-bungeecord.61258/)
